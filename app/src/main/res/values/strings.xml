@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My First App</string>
+
+    <string name="title_activity_button">ButtonActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_button_basic">ButtonBasic</string>
+</resources>
